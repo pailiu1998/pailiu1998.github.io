@@ -33,7 +33,7 @@ I received my undergraduate degree on Software Engineering from Northeastern Uni
 2020: SemEval<br>
 
 ## Teaching Experience
-* Teaching Assistant, Natural Language Processing, Spring 2021, Westlake University. (Advance Course for PhD Candidates)
+* Teaching Assistant, Natural Language Processing, Spring 2021, Westlake University. (Advanced Course for PhD Candidates)
 <br/><br/>
 
 ## Contact Me
