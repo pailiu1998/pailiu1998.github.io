@@ -35,5 +35,5 @@ I received his undergraduate degree on Software Engineering from Northeastern Un
 <br/><br/>
 
 ## Contact Me
-Gmail: liupai@westlake.edu.cn
+liupai@westlake.edu.cn
 
