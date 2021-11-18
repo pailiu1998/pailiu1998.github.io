@@ -22,8 +22,8 @@ I received his undergraduate degree on Software Engineering from Northeastern Un
 
 
 ## Work Experience
-* Research Assistant, Westlake University, Hang Zhou. Jul 2021 - present.
-* Research Intern, NiuTrans, Shen Yang. Jun. 2019 - Jul. 2020.
+* Research Assistant, Westlake University, Hang Zhou. Jul. 2021 - present.
+* Research Intern, NiuTrans, Shen Yang. Jul. 2019 - Aug. 2020.
 
 ## Academic Services
 * Reviewer:<br>
