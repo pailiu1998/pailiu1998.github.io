@@ -14,11 +14,13 @@ I received my undergraduate degree on Software Engineering from Northeastern Uni
 * Visiting student, Westlake University, Jul. 2020 - Jul. 2021.
 
 ## Publications
-1. Cunxiang Wang\*, **Pai Liu\***, Yue Zhang. Can Generative Pre-trained Language Models Serve as Knowledge Bases for Closed-book QA? ACL-IJCNLP 2021(Oral), long. \[[paper](https://arxiv.org/abs/2106.01561)\]  
+1. Cunxiang Wang\*, **Pai Liu\***, Yue Zhang. Can Generative Pre-trained Language Models Serve as Knowledge Bases for Closed-book QA? ACL-IJCNLP 2021(Oral), long. \[[paper](https://arxiv.org/abs/2106.01561)\] \[[code](https://github.com/wangcunxiang/Can-PLM-Serve-as-KB-for-CBQA)\] 
 
-2. **Pai Liu**. QiaoNing at SemEval-2020 Task 4: Commonsense Validation and Explanation system based on ensemble of language model. SemEval 2020. \[[paper](https://arxiv.org/abs/2009.02645)\]  
+2. **Pai Liu**. QiaoNing at SemEval-2020 Task 4: Commonsense Validation and Explanation system based on ensemble of language model. SemEval 2020. \[[paper](https://arxiv.org/abs/2009.02645)\] 
 
-3. Zhixiang Chen\*, Yikun Lei\*, **Pai Liu\***, Guibing Guo. NEUer at SemEval-2021 Task 4: Complete Summary Representation by Filling Answers into Question for Matching Reading Comprehension. SemEval 2021. \[[paper](https://arxiv.org/abs/2105.12051)\]   
+3. Zhixiang Chen\*, Yikun Lei\*, **Pai Liu\***, Guibing Guo. NEUer at SemEval-2021 Task 4: Complete Summary Representation by Filling Answers into Question for Matching Reading Comprehension. SemEval 2021. \[[paper](https://arxiv.org/abs/2105.12051)\] \[[checkpoint](https://drive.google.com/drive/folders/1EECS9na9PpX9CO_cCzYj9FDkiBvOpyxv)\]
+
+(\*: Equal Contribution)
 
 
 ## Work Experience
