@@ -1,5 +1,5 @@
-title: Wenxuan Zhou (周文轩)
-url: "https://wzhouad.github.io/"
+title: Pai Liu (刘派)
+url: "https://pailiu1998.github.io/"
 baseurl: ""
 
 markdown: kramdown
@@ -17,8 +17,10 @@ sass:
 
 nav:
  - name: "Google Scholar"
-   link: "https://scholar.google.com/citations?user=HHvcwrIAAAAJ&hl=en"
+   link: "https://scholar.google.com/citations?user=_sYc1cgAAAAJ&hl=en"
  - name: "Github"
-   link: "https://github.com/wzhouad"
+   link: "https://github.com/pailiu1998"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/pai-liu-a2757110a"
  - name: "CV"
    link: "cv.pdf"
