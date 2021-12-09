@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="photo.jpg">
 
 
-I received my undergraduate degree on Software Engineering from Northeastern University, China, where I was supervised by [Prof. Guibing Guo](https://scholar.google.com/citations?user=YMXJa2EAAAAJ&hl=zh-CN&oi=ao) and is currently a research assistant in the School of Engineering at Westlake University working with [Prof. Yue Zhang](https://frcchang.github.io/). My research focus is on Natural Language Processing(NLP). I plan to pursue a Ph.D. degree in the U.S., and am currently searching for advisors and programs.
+I received my undergraduate degree on Software Engineering from Northeastern University, China, where I was supervised by [Prof. Guibing Guo](https://scholar.google.com/citations?user=YMXJa2EAAAAJ&hl=zh-CN&oi=ao) and is currently a research assistant in the School of Engineering at Westlake University working with [Prof. Yue Zhang](https://frcchang.github.io/) and [Dr. Libo Qin](http://ir.hit.edu.cn/~lbqin/). My research focus is on Natural Language Processing(NLP). I plan to pursue a Ph.D. degree in the U.S., and am currently searching for advisors and programs.
 
 ## Education
 * B.Sc. in Software Engineering, Northeastern University, Sep. 2017 - Jul. 2021.
@@ -29,7 +29,7 @@ I received my undergraduate degree on Software Engineering from Northeastern Uni
 
 ## Academic Services
 * Reviewer:<br>
-2022: ARR<br>
+2022: ACL<br>
 2020: SemEval<br>
 
 ## Teaching Experience
